@@ -16,7 +16,7 @@ Middleware function calculates and logs the execution time for each API request.
 
 ```bash
 
-git clone https://github.com/pushkar199/Dynamic-Layout-Manager---Server.git
+git clone https://github.com/pushkar199/Dynamic-Layout-Manager-Server.git
 
 ```
 
